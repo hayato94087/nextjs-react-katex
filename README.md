@@ -1,1 +1,1 @@
-[Next.jsでTeXを表示]を参照ください。
+[Next.jsでTeXを表示](https://zenn.dev/hayato94087/articles/c7d0360938dd99)を参照ください。
